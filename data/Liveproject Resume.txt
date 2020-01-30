@@ -1,0 +1,34 @@
+﻿Good Student
+Data Scientist
+	  
+
+Good Student
+123 Fake Street
+Some City, QT 12345
+123.456.7890
+no_reply@fakesite.com
+	ㅡ
+Skills
+	  
+
+Python, Pandas, machine learning, natural language processing
+	ㅡ
+Experience
+	  
+
+Manning / Data Analyst
+Oct 2019 - PRESENT,  REMOTE
+Analyzed and visualized vast amounts of data using Pandas, Python, and Matplotlib.
+	ㅡ
+Education
+	  
+
+Berkeley / B.S. Mathematics
+August 2015 - May 2019,  BERKELEY, CA
+Graduated summa cum laude.
+
+	ㅡ
+Awards
+	  
+
+Tau Beta Pi Honors Society
